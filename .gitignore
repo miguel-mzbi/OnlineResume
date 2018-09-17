@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
 # Created by https://www.gitignore.io/api/linux,node,visualstudiocode
@@ -18,6 +19,8 @@
 .nfs*
 
 ### Node ###
+=======
+>>>>>>> 0a31aeabb93fccefe97507ca96bc304452520778
 # Logs
 logs
 *.log
@@ -77,6 +80,7 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
@@ -104,3 +108,7 @@ typings/
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+=======
+# next.js build output
+.next
+>>>>>>> 0a31aeabb93fccefe97507ca96bc304452520778
